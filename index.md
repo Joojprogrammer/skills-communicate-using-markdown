@@ -10,3 +10,11 @@ add a image
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+add a code
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+add a list
